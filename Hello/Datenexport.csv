@@ -1,0 +1,6 @@
+Handelsdatum;Valutadatum;Transaktion;Instrumentenart;WP-Identifikationsart;WP-Identifikation;WP-Name;Nominale / St�ck;Kurs / Limit;Handelsw�hrung;Zahlungsw�hrung;Kurswert in Zahlungsw�hrung;Summe der eigenen Spesen in Zahlungsw�hrung;Summe der fremden Spesen in Zahlungsw�hrung;aufgelaufene St�ckzinsen in Zahlungsw�hrung;bezahlte / erhaltene KESt in Zahlungsw�hrung;Endbetrag in Zahlungw�hrung;W�hrungskurs;B�rse;Status;Orderart;G�ltigkeit;Lagerland;
+15.06.2021;17.06.2021;Kauf;Investmentfonds;Isin;IE00B4L5Y983;iShsIII-Cor.MSCI Wld UCITS ETF;30,0000;68,604000;EUR;EUR;2058,12;0,00;4,56;0,00;0,00;2062,68;1,000000;XSTU;ausgef�hrt und abgerechnet;Limit;Ultimo laufende Woche;Deutschland;
+31.05.2021;02.06.2021;Kauf;Aktie;Isin;DE0005810055;DEUTSCHE B�RSE AG;8,0000;133,900000;EUR;EUR;1071,20;2,50;0,75;0,00;0,00;1074,45;1,000000;TGAT;ausgef�hrt und abgerechnet;Limit;Ultimo laufende Woche;Deutschland;
+04.06.2021;08.06.2021;Kauf;Zertifikat;Isin;DE000A28M8D0;VanEck Vectors Bitcoin ETN 31.12.2029;18,0000;16,993000;EUR;EUR;305,87;2,50;0,75;0,00;0,00;309,12;1,000000;TGAT;ausgef�hrt und abgerechnet;Limit;Tagesg�ltig;Deutschland;
+11.05.2021;12.05.2021;Kauf;Investmentfonds;Isin;IE00B4L5Y983;iShsIII-Cor.MSCI Wld UCITS ETF;9,6500;66,426000;EUR;EUR;641,01;0,00;0,00;0,00;0,00;641,01;1,000000;XETR;ausgef�hrt und abgerechnet;;;Deutschland;
+
